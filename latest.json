@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "notes": "Leitura de datas e planilha aprimoradas.",
-  "release_url": "https://github.com/Adrikvrb/leitor-canhotos-privado/releases/tag/v0.2.0",
-  "sha256": "FA3B528970B96BA43440EF4549F1BE1E25B2BD9DB26947ED3C7055455994660E"
+    "version":  "0.2.1",
+    "notes":  "Atualização automática pela pasta compartilhada do OneDrive.",
+    "package_name":  "Atualizacao-0.2.1.zip",
+    "sha256":  "3E770B2312AFF4E1B48A32BB232C12E96DEA5D6EBA6A45981357DD81CE8DBD47"
 }
